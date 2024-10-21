@@ -4,7 +4,9 @@ Code used for paper titled "Increased transcriptional variance in human Trisomy 
 
 We calculated cell-type variability, using method from Liu et al., and gene-level variability analysis, using methods from Brennecke et al., Osorio et al., and Cai.
 
+
 References:
+
 Liu, J., Kreimer, A. & Li, W. V. Differential variability analysis of single-cell gene expression data. Brief. Bioinform. 24, (2023).
 
 Brennecke, P. et al. Accounting for technical noise in single-cell RNA-seq experiments. Nat. Methods 10, 1093–1095 (2013).
