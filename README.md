@@ -1,6 +1,6 @@
-# Increased transcriptional variance in human Trisomy 21 revealed by single-cell analyses
+# Single-cell analyses reveal increased gene expression variability in human neurodevelopmental conditions
 
-Code used for paper titled "Increased transcriptional variance in human Trisomy 21 revealed by single-cell analyses"
+Code used for paper titled "Single-cell analyses reveal increased gene expression variability in human neurodevelopmental conditions"
 
 We calculated cell-type variability, using method from Liu et al., and gene-level variability analysis, using methods from Brennecke et al., Osorio et al., and Cai.
 
